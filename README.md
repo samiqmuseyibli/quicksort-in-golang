@@ -1,10 +1,10 @@
-# quicksort-in-golang
+# Quick sort in Golang (Go Programming Language)
 
 
-<h3 align="center">Best-README-Template</h3>
-    Best complexity: n*log(n)
-    Average complexity: n*log(n)
-    Worst complexity: n^2
+<h3>Time Complexity</h3>
+    * Best complexity: n*log(n)
+    * Average complexity: n*log(n)
+    * Worst complexity: n^2
 
 <h4>Quick sort implementation steps:</h4>
 <h5>Let's take the input array as <b>{15, 3, 12, 6, -9, 9, 0}</b> and we can see how the Quick sort is sorting the array.</h5>
